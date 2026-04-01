@@ -1,0 +1,10 @@
+streamlit
+chromadb
+sentence-transformers
+langchain
+langchain-groq
+langchain-community
+langgraph
+pypdf
+python-pptx
+reportlab
